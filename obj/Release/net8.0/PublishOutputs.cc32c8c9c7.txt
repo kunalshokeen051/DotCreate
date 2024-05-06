@@ -1,0 +1,6 @@
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\publish\dotCreate.exe
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\publish\dotCreate.dll
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\publish\dotCreate.deps.json
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\publish\dotCreate.runtimeconfig.json
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\publish\dotCreate.pdb
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\publish\McMaster.Extensions.CommandLineUtils.dll

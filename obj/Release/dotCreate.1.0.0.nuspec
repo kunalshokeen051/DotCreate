@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>dotCreate</id>
+    <version>1.0.0</version>
+    <authors>dotCreate</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\obj\DotnetToolSettings.xml" target="tools\net8.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\publish\dotCreate.dll" target="tools\net8.0\any\dotCreate.dll" />
+    <file src="C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\publish\dotCreate.deps.json" target="tools\net8.0\any\dotCreate.deps.json" />
+    <file src="C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\publish\dotCreate.runtimeconfig.json" target="tools\net8.0\any\dotCreate.runtimeconfig.json" />
+    <file src="C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\publish\dotCreate.pdb" target="tools\net8.0\any\dotCreate.pdb" />
+    <file src="C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\net8.0\any\McMaster.Extensions.CommandLineUtils.dll" />
+  </files>
+</package>

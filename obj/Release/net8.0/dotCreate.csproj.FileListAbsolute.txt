@@ -1,0 +1,17 @@
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\dotCreate.exe
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\dotCreate.deps.json
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\dotCreate.runtimeconfig.json
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\dotCreate.dll
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\dotCreate.pdb
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\bin\Release\net8.0\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\obj\Release\net8.0\dotCreate.csproj.AssemblyReference.cache
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\obj\Release\net8.0\dotCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\obj\Release\net8.0\dotCreate.AssemblyInfoInputs.cache
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\obj\Release\net8.0\dotCreate.AssemblyInfo.cs
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\obj\Release\net8.0\dotCreate.csproj.CoreCompileInputs.cache
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\obj\Release\net8.0\dotCreate.csproj.Up2Date
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\obj\Release\net8.0\dotCreate.dll
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\obj\Release\net8.0\refint\dotCreate.dll
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\obj\Release\net8.0\dotCreate.pdb
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\obj\Release\net8.0\dotCreate.genruntimeconfig.cache
+C:\Users\Kunal Shokeen\Desktop\Personal_Projects\.net projects\dotCreate\obj\Release\net8.0\ref\dotCreate.dll

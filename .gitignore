@@ -1,0 +1,28 @@
+# ASP.NET Core CLI Tool - .NET
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.pdb
+*.cache
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublish/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]ppx/
+
+# Others
+nuget.config
+*.log
+*.DS_Store

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bqRXbZ2l8Dxm94lAuxaO6ms9aGKPeTdXWfWrmRXEFLyEJ/sJ6GoBmcBQLFg3s9865jKZhjcAkkvpeLMC3wFDxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kunal Shokeen\\Desktop\\Personal_Projects\\.net projects\\dotCreate\\dotCreate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kunal Shokeen\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512",
+    "C:\\Users\\Kunal Shokeen\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512",
+    "C:\\Users\\Kunal Shokeen\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.1.1\\mcmaster.extensions.commandlineutils.4.1.1.nupkg.sha512",
+    "C:\\Users\\Kunal Shokeen\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
